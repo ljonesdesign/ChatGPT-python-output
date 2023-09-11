@@ -1,4 +1,4 @@
-ChatGPT prompt: is main a keyword in python?
+**ChatGPT prompt:** *is main a keyword in python?*
 
 No, `main` is not a keyword in Python. It's simply a naming convention that many Python programmers use for the main entry point of a script or program, but it has no special significance to the Python language itself.
 
@@ -6,7 +6,7 @@ You can name the main function whatever you like; `main` is just a commonly used
 
 So, while `main` is a commonly used name for the main function, you are not required to use it, and you can choose any valid function name that suits your code.
 
-ChatGPT prompt: what is a main function in python?
+**ChatGPT prompt:** *what is a main function in python?*
 
 
 In Python, a "main function" is not a special or reserved term like it might be in some other programming languages. 
