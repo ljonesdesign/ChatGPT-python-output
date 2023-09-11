@@ -1,3 +1,5 @@
+the ChatGPT prompt for this output was: **Explain a how lists work in Python**
+
 # Lists
 In Python, a list is a versatile and commonly used data structure that allows you to store and 
 manipulate a collection of elements. Lists are ordered, mutable (modifiable), and can contain 
