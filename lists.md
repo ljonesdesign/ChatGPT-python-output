@@ -9,7 +9,7 @@ Here's an overview of how lists work in Python:
 ## 1. Creating Lists:
 
 You can create a list by enclosing a comma-separated sequence of elements within square brackets. For example:
-```
+```python
 my_list = [1, 2, 3, 4, 5]
 empty_list = []
 mixed_list = [1, "Hello", 3.14, True]
