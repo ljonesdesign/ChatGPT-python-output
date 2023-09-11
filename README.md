@@ -11,7 +11,7 @@ The target learner is someone that has some rudimentary understanding of Python.
 
 but has not yet worked with 
 * loops or
-* functions. 
+* functions
 
 ChatGPT was asked to create a rock, paper, scissors game to serve as a goal for the next step in the learning process. Some of the concepts that are new at this stage are functions, import random, lists, and while loops. Loops and functions will be introduced in this next sessions, so it seems it may be beneficial to introduce this program at this stage and ask some more questions of ChatGPT.
 
