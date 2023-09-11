@@ -14,7 +14,7 @@ but has not yet worked with
 * functions
 * import random
 
-ChatGPT was asked to create a rock, paper, scissors game to serve as a goal for the next step in the learning process. Some of the concepts that are new at this stage are functions, import random, lists, and while loops. Loops and functions will be introduced in this next sessions, so it seems it may be beneficial to introduce this program at this stage and ask some more questions of ChatGPT.
+ChatGPT was asked to create a rock, paper, scissors game to serve as a goal for the next step in the learning process. The generated game was tested and seems to be working properly. Some of the concepts that are new at this stage are functions, import random, lists, and while loops. Loops and functions will be introduced in this next sessions, so it seems it may be beneficial to introduce this program at this stage and ask some more questions of ChatGPT.
 
 contains raw output from ChatGPT prompts. 
 
