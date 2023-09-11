@@ -7,3 +7,5 @@ The first prompt was for ChatGPT to create a Rock, Paper, Scissors game.
 After scanning over the code I noticed that there was an example of a list. So then I asked ChatGPT to explain how lists work in Python. 
 
 Then I noticed the `__name__` variable on line 59 and asked ChatGPT what `__name__` meant in Python.
+
+What else can we do to learn more about how this program works by using ChatGPT prompts?
