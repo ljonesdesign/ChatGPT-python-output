@@ -12,6 +12,7 @@ The target learner is someone that has some rudimentary understanding of Python.
 but has not yet worked with 
 * loops or
 * functions
+* import random
 
 ChatGPT was asked to create a rock, paper, scissors game to serve as a goal for the next step in the learning process. Some of the concepts that are new at this stage are functions, import random, lists, and while loops. Loops and functions will be introduced in this next sessions, so it seems it may be beneficial to introduce this program at this stage and ask some more questions of ChatGPT.
 
@@ -23,4 +24,7 @@ After scanning over the code I noticed that there was an example of a list. So t
 
 Then I noticed the `__name__` variable on line 59 and asked ChatGPT what `__name__` meant in Python.
 
-What else can we do to learn more about how this program works by using ChatGPT prompts?
+To do:
+* ask ChatGPT to explain fuctions
+* while loops
+* return keyword
