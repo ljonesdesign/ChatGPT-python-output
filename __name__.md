@@ -1,4 +1,4 @@
-Maybe you don't understand why the code on line 59 was used. What will we get if we ask ChatGPT, "What does this mean in python: __name__"
+Maybe you don't understand why the code on line 59 was used. What will we get if we ask ChatGPT, "What does this mean in python: `__name__`"
 
 This actually took a bit longer for ChatGPT to process than the Rock, Paper, Scissors code:
 
