@@ -5,9 +5,8 @@ list are separated by commas.
 
 Here's an overview of how lists work in Python:
 
-1. *Creating Lists:*
-
-You can create a list by enclosing a comma-separated sequence of elements within square brackets. For example:
+1. **Creating Lists:**
+   You can create a list by enclosing a comma-separated sequence of elements within square brackets. For example:
 
 2.
 
