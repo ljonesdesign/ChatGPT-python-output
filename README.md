@@ -25,6 +25,6 @@ After scanning over the code I noticed that there was an example of a list. So t
 Then I noticed the `__name__` variable on line 59 and asked ChatGPT what `__name__` meant in Python.
 
 To do:
-* ask ChatGPT to explain fuctions
+* ask ChatGPT to explain functions
 * while loops
 * return keyword
